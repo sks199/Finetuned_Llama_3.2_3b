@@ -1,5 +1,3 @@
-# README.md for Fine-tuning Llama 3.2 Notebooks
-
 ## Overview
 
 This repository contains two Jupyter notebooks for fine-tuning the Llama 3.2 model using the Unsloth framework. These notebooks demonstrate various techniques for training and evaluating the model, tracking performance metrics, and utilizing the model for inference tasks.
