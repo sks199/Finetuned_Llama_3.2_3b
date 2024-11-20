@@ -73,13 +73,6 @@ To run these notebooks:
 
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-Feel free to explore each notebook to understand the fine-tuning process better and adapt it for your own projects!
 
 Citations:
 [1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/8695551/8c7bb4c3-4a14-48b9-b50d-8dd65f0be6b3/Llama_3_2_finetune_with_unsloth.ipynb
